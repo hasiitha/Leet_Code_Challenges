@@ -33,7 +33,7 @@ public class Palindrome_One {
 		boolean isPalindrome = true ;
 		for(int i =0;i<arr.length/2;i++) {
 			
-			System.out.println(arr[index_first] +"=="+arr[index_last]+"="+(arr[index_first] != arr[index_last]));
+			//System.out.println(arr[index_first] +"=="+arr[index_last]+"="+(arr[index_first] != arr[index_last]));
 			
 			
 			if(arr[index_first] != arr[index_last]) {
